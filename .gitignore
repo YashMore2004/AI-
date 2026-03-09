@@ -1,0 +1,6 @@
+files.zip
+*.mp4
+app_backup.py
+__pycache__/
+*.pyc
+.env
